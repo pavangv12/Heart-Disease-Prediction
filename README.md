@@ -39,6 +39,19 @@ There are 40 features available in the dataset including PhysicalActivities, Sle
    jupyter notebook heart_disease_prediction.ipynb
    ```
 
+## Results
+After training various machine learning models, the best-performing models achieved the following results:
+
+| Model                | Accuracy | Precision | Recall | F1-score |
+|----------------------|----------|-----------|--------|----------|
+| Logistic Regression | 83%      | 89%       | 83%    | 85%      |
+| Decision Tree       | 87%      | 86%       | 87%    | 87%      |
+| Random Forest      | 90%      | 88%       | 90%    | 89%      |
+| AdaBoost           | 91%      | 90%       | 91%    | 90%      |
+| Gradient Boosting  | 91%      | 90%       | 91%    | 90%      |
+| XGBoost (Tuned)    | 91%      | 90%       | 91%    | 90%      |
+| DNN (Tuned)        | 91%      | 90%       | 91%    | 90%      |
+
 ## Usage
 - Modify the dataset path in the notebook if needed.
 - Experiment with different models to improve performance.
@@ -49,4 +62,6 @@ Contributions are welcome! Feel free to raise issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License.
+
+
 
