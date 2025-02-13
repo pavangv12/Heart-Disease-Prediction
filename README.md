@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 
 ## Overview
-This project focuses on predicting heart disease risk based on various health indicators using machine learning techniques. The dataset used is sourced from Kaggle and contains multiple features related to patient health.
+Heart disease is a leading cause of mortality worldwide, imposing significant medical costs and resource burdens on healthcare providers and insurers. Early detection of high-risk individuals can help optimize resource allocation, minimize treatment expenses, and enhance patient care. This project leverages machine learning techniques to predict heart disease risk based on various health indicators.
 
 ## Dataset Details
 - **Source:** [Kaggle - Personal Key Indicators of Heart Disease](https://www.kaggle.com/kamilpytlak/personal-key-indicators-of-heart-disease)
@@ -11,6 +11,11 @@ This project focuses on predicting heart disease risk based on various health in
   - Health indicators (BMI, smoking habits, alcohol consumption, etc.)
   - Medical history (diabetes, stroke history, etc.)
   - Lifestyle factors
+- **Size:**
+  - A version of the file with missing data (NaNs): 445,132 rows. = 139.87MB​
+  - A version of the file without missing data (NaNs): 246,022 rows. = 81.98 MB​
+- **Features:**
+There are 40 features available in the dataset including PhysicalActivities, SleepHours, HadStroke, a summary of your dataset, etc. Update this file as you progress.
 
 ## Technologies & Skills Used
 - **Python** for scripting and data processing
