@@ -27,7 +27,7 @@ This project focuses on predicting heart disease risk based on various health in
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy pandas matplotlib scikit-learn 
    ```
 3. Run the Jupyter Notebook or Python script:
    ```bash
