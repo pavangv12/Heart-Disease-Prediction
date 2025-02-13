@@ -23,7 +23,7 @@ This project focuses on predicting heart disease risk based on various health in
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/pavangv12/Heart-Disease-Prediction.git
    ```
 2. Install dependencies:
    ```bash
